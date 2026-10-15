@@ -110,8 +110,6 @@
 
 <div align="center">
 
-*Made with ❤️ by Suwara (15yo)* | *© 2024 All Rights Reserved*
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=500&color=0EA5E&center=true&width=500&lines=Fullstack+Developer;AI+Engineer;Building+the+future;Always+Learning+&+Growing)](https://git.io/typing-svg)
 
 </div>

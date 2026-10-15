@@ -33,25 +33,6 @@
 
 ---
 
-## 📜 Certifications
-
-<details>
-<summary><strong>🏆 Click to View My Certificates</strong> ❌</summary>
-
-<!-- ADD NEW CERTIFICATES BELOW THIS LINE (Copy paste table row) -->
-
-| Certificate Name | Issuer | Link | Status |
-|------------------|--------|------|--------|
-| [Certificate 1] | [Platform] | [Link] | ✅ Active |
-| [Certificate 2] | [Organization] | [Link] | ⏳ In Progress |
-
-<!-- REMOVE BY DELETING THE ROW ABOVE -->
-
-</details>
-
----
----
-
 ## 📊 GitHub Stats
 
 <div align="center">

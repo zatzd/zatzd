@@ -50,24 +50,6 @@
 </details>
 
 ---
-
-## 🎯 Featured Projects
-
-<details>
-<summary><strong>🔥 Check Out My Work</strong> 📦</summary>
-
-### Project 1: **[Project Name]** 🚀
-- **Stack:** React, Node.js, MongoDB
-- **Description:** Brief description about your project
-- **Links:** 🔗 [Live Demo] | [Source Code]
-
-### Project 2: **[Project Name]** 🤖
-- **Stack:** Python, TensorFlow, FastAPI
-- **Description:** AI/ML project details
-- **Links:** 🔗 [Demo] | [Repository]
-
-</details>
-
 ---
 
 ## 📊 GitHub Stats

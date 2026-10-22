@@ -73,6 +73,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=500&color=0EA5E&center=true&width=500&lines=Fullstack+Developer;AI+Engineer;Building+the+future;Always+Learning+&+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=500&color=0EA5E&center=true&width=500&lines=Fullstack+Developer;AI+Engineer;Look+at+your+achievements,+don't+care+about+what+people+say;Always+Learning+&+Growing)](https://git.io/typing-svg)
 
 </div>
